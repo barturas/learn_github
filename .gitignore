@@ -1,3 +1,4 @@
 # ignore all .txt files
 *.txt
+# ignore mac specific files
 .DS_Store
